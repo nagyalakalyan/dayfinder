@@ -1,0 +1,39 @@
+legend{
+    color: chartreuse;
+}
+fieldset{
+    height: 400px;
+    width: 500px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: darkslategrey;
+    border-width: 5px;
+    background-image:url(./earth.png), url(./star2.jpeg);
+    background-position: 90 120,0 0;
+    background-repeat: no-repeat,repeat;
+}
+#inputdate,#inputmonth,#inputyear
+{
+    border-radius: 5px;
+    border: 5px goldenrod solid;
+}
+#heading,#res
+{
+    color: crimson;
+}
+#output
+{
+    color: greenyellow;
+}
+td
+{
+    color: azure;
+    font: size 40px;
+}
+button{
+    border-width: 3px;
+    border-style: groove;
+    border-radius: 5px;
+    color: rgb(0, 170, 255);
+   
+}
